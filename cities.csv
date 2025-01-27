@@ -1,0 +1,100 @@
+City,Country,City_Key,Lat,Lng,Population,ISO
+Melbourne,Australia,Melbourne-Australia,-37.8142,144.9631,5031195,AUS
+Buenos Aires,Argentina,Buenos Aires-Argentina,-34.6033,-58.3817,16710000,ARG
+Cape Town,South Africa,Cape Town-South Africa,-33.9253,18.4239,4770313,ZAF
+Sydney,Australia,Sydney-Australia,-33.8678,151.21,4840600,AUS
+Rosario,Argentina,Rosario-Argentina,-32.9575,-60.6394,1276000,ARG
+Mendoza,Argentina,Mendoza-Argentina,-32.8833,-68.8167,115041,ARG
+Perth,Australia,Perth-Australia,-31.9559,115.8606,2141834,AUS
+Durban,South Africa,Durban-South Africa,-29.8833,31.05,838634,ZAF
+Johannesburg,South Africa,Johannesburg-South Africa,-26.2044,28.0456,8500000,ZAF
+Rio de Janeiro,Brazil,Rio de Janeiro-Brazil,-22.9111,-43.2056,12592000,BRA
+Brasilia,Brazil,Brasilia-Brazil,-15.7939,-47.8828,2817068,BRA
+Salvador,Brazil,Salvador-Brazil,-12.9747,-38.4767,2418005,BRA
+Berbera,Somalia,Berbera-Somalia,10.4356,45.0164,478000,SOM
+Bangalore,India,Bangalore-India,12.9789,77.5917,15386000,IND
+Khartoum,Sudan,Khartoum-Sudan,15.6,32.5,7869000,SDN
+Omdurman,Sudan,Omdurman-Sudan,15.65,32.4833,2805396,SDN
+Mumbai,India,Mumbai-India,19.0761,72.8775,24973000,IND
+Mexico City,Mexico,Mexico City-Mexico,19.4333,-99.1333,21804000,MEX
+Guadalajara,Mexico,Guadalajara-Mexico,20.6767,-103.3475,5525000,MEX
+Jeddah,Saudi Arabia,Jeddah-Saudi Arabia,21.5433,39.1728,4697000,SAU
+Shenzhen,China,Shenzhen-China,22.5415,114.0596,17619000,CHN
+Kolkata,India,Kolkata-India,22.5675,88.37,18502000,IND
+Abu Dhabi,United Arab Emirates,Abu Dhabi-United Arab Emirates,24.4667,54.3667,1483000,ARE
+Riyadh,Saudi Arabia,Riyadh-Saudi Arabia,24.6333,46.7167,7237000,SAU
+Karachi,Pakistan,Karachi-Pakistan,24.86,67.01,15738000,PAK
+Dubai,United Arab Emirates,Dubai-United Arab Emirates,25.2631,55.2972,3331420,ARE
+Sharjah,United Arab Emirates,Sharjah-United Arab Emirates,25.3575,55.3908,1247749,ARE
+Monterrey,Mexico,Monterrey-Mexico,25.6667,-100.3,5341171,MEX
+Manama,Bahrain,Manama-Bahrain,26.225,50.5775,635000,BHR
+Kathmandu,Nepal,Kathmandu-Nepal,27.71,85.32,845767,NPL
+Pokhara,Nepal,Pokhara-Nepal,28.2083,83.9889,353841,NPL
+New Delhi,India,New Delhi-India,28.6139,77.2089,249998,IND
+Houston,United States,Houston-United States,29.786,-95.3885,5970127,USA
+Suez,Egypt,Suez-Egypt,29.9667,32.55,516959,EGY
+Cairo,Egypt,Cairo-Egypt,30.0444,31.2358,20296000,EGY
+Shanghai,China,Shanghai-China,31.2286,121.4747,24073000,CHN
+Lahore,Pakistan,Lahore-Pakistan,31.5497,74.3436,12306000,PAK
+Tyre,Lebanon,Tyre-Lebanon,33.2708,35.1961,60000,LBN
+Baghdad,Iraq,Baghdad-Iraq,33.3153,44.3661,6183000,IRQ
+Damascus,Syria,Damascus-Syria,33.5131,36.2919,2584771,SYR
+Beirut,Lebanon,Beirut-Lebanon,33.8983,35.5057,2421354,LBN
+Peshawar,Pakistan,Peshawar-Pakistan,34.0144,71.5675,1970042,PAK
+Los Angeles,United States,Los Angeles-United States,34.1141,-118.4068,11922389,USA
+Tripoli,Lebanon,Tripoli-Lebanon,34.4367,35.8344,243800,LBN
+Osaka,Japan,Osaka-Japan,34.6939,135.5022,15126000,JPN
+Kyoto,Japan,Kyoto-Japan,35.0117,135.7683,1463723,JPN
+Tokyo,Japan,Tokyo-Japan,35.6897,139.6922,37732000,JPN
+Aleppo,Syria,Aleppo-Syria,36.2,37.16,2003671,SYR
+Mosul,Iraq,Mosul-Iraq,36.34,43.13,1792000,IRQ
+Valencia,Spain,Valencia-Spain,39.47,-0.3764,1595000,ESP
+Beijing,China,Beijing-China,39.9067,116.3975,18522000,CHN
+Philadelphia,United States,Philadelphia-United States,40.0077,-75.1339,5683533,USA
+Madrid,Spain,Madrid-Spain,40.4169,-3.7033,6211000,ESP
+New York,United States,New York-United States,40.6943,-73.9249,18908608,USA
+Barcelona,Spain,Barcelona-Spain,41.3828,2.1769,4800000,ESP
+Marseille,France,Marseille-France,43.2964,5.37,873076,FRA
+Toronto,Canada,Toronto-Canada,43.7417,-79.3733,5647656,CAN
+Bordeaux,France,Bordeaux-France,44.84,-0.58,994920,FRA
+Montreal,Canada,Montreal-Canada,45.5089,-73.5617,3675219,CAN
+Lyon,France,Lyon-France,45.76,4.84,522250,FRA
+Munich,Germany,Munich-Germany,48.1375,11.575,2606021,DEU
+Strasbourg,France,Strasbourg-France,48.5833,7.7458,291313,FRA
+Paris,France,Paris-France,48.8567,2.3522,11060000,FRA
+Winnipeg,Canada,Winnipeg-Canada,49.8844,-97.1464,758515,CAN
+Frankfurt,Germany,Frankfurt-Germany,50.1106,8.6822,773068,DEU
+Cologne,Germany,Cologne-Germany,50.9364,6.9528,1084831,DEU
+Berlin,Germany,Berlin-Germany,52.52,13.405,4890363,DEU
+Edmonton,Canada,Edmonton-Canada,53.5344,-113.4903,1151635,CAN
+Hamburg,Germany,Hamburg-Germany,53.55,10,2484800,DEU
+Omsk,Russia,Omsk-Russia,54.9833,73.3667,1172070,RUS
+Moscow,Russia,Moscow-Russia,55.7558,37.6172,17332000,RUS
+Kazan,Russia,Kazan-Russia,55.7964,49.1089,1259173,RUS
+Helsinki,Finland,Helsinki-Finland,60.1708,24.9375,1360075,FIN
+Espoo,Finland,Espoo-Finland,60.2056,24.6556,297132,FIN
+Vantaa,Finland,Vantaa-Finland,60.2944,25.0403,214605,FIN
+Tampere,Finland,Tampere-Finland,61.4981,23.76,334112,FIN
+Chicago,United States,Chicago-United States,41.8375,-87.6866,8497759,USA
+Hyderabad City,Pakistan,Hyderabad City-Pakistan,25.3792,68.3683,1732693,PAK
+Dhaka,Bangladesh,Dhaka-Bangladesh,23.7639,90.3889,18627000,BGD
+Khulna,Bangladesh,Khulna-Bangladesh,22.8167,89.55,1400689,BGD
+An Najaf,Iraq,An Najaf-Iraq,32,44.33,724700,IRQ
+Sevilla,Spain,Sevilla-Spain,37.39,-5.99,1100000,ESP
+Ad Dammam,Saudi Arabia,Ad Dammam-Saudi Arabia,26.4333,50.1,903312,SAU
+Mecca,Saudi Arabia,Mecca-Saudi Arabia,21.4225,39.8233,2427924,SAU
+Sharm ash Shaykh,Egypt,Sharm ash Shaykh-Egypt,27.915,34.3275,13561,EGY
+London,United Kingdom,London-United Kingdom,-37.8142,144.9631,11262000,GBR
+Birmingham,United Kingdom,Birmingham-United Kingdom,-34.6033,-58.3817,2919600,GBR
+Manchester,United Kingdom,Manchester-United Kingdom,-33.9253,18.4239,547627,GBR
+Liverpool,United Kingdom,Liverpool-United Kingdom,-33.8678,151.21,513441,GBR
+Bristol,United Kingdom,Bristol-United Kingdom,-32.9575,-60.6394,707412,GBR
+Kismaayo,Somalia,Kismaayo-Somalia,-32.8833,-68.8167,1458000,SOM
+Luuq,Somalia,Luuq-Somalia,-31.9559,115.8606,134000,SOM
+Burco,Somalia,Burco-Somalia,-29.8833,31.05,425000,SOM
+Al Muharraq,Bahrain,Al Muharraq-Bahrain,-26.2044,28.0456,75000,BHR
+Yokohama,Japan,Yokohama-Japan,-22.9111,-43.2056,3757630,JPN
+Juba,South Sudan,Juba-South Sudan,-15.7939,-47.8828,459342,SSD
+Madinat Hamad,Bahrain,Madinat Hamad-Bahrain,-12.9747,-38.4767,52700,BHR
+Bor,South Sudan,Bor-South Sudan,10.4356,45.0164,315351,SSD
+Tambura,South Sudan,Tambura-South Sudan,12.9789,77.5917,9500,SSD
